@@ -6,4 +6,4 @@ Bu bir film sitesi projesidir
 HTML, CSS ve JavaScript ile hazırlanmıştır
 
 <h2> Ekran Görüntü </h2>
-![] (ekran.gif)
+![] (./ekran.gif)
